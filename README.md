@@ -1,4 +1,4 @@
-## Flor de Ruina *
+## Flor de Ruina
 
 
 
