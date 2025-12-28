@@ -7,7 +7,7 @@
 
 (FR) Flor de Ruina naît de la vie qui émerge dans la fissure, dans la crevasse. Ses variantes sont un processus conceptuel qui émule le cycle de vie d'une fleur, ainsi chaque glyphe germe, fleurit, se fane et enfin se fissure. Conçue comme un outil pour rendre visible le mot qui dérange, en questionnant la lecture automatique si prévalente dans la tradition typographique en proposant un système qui ralentit la lecture, s'arrêtant sur la forme et le sens. Elle trouve la beauté dans l'inconfort, conçue pour interrompre.
 
-* By Felipe Sanzana, 2026 *
+By Felipe Sanzana, 2026 *
 
 ---
 
