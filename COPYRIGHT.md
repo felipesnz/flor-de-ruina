@@ -1,4 +1,4 @@
-Copyright © 2024 Felipe Sanzana (https://github.com/felipesnz), with Reserved Font Name "Flor de Ruina".
+Copyright © 2026 Felipe Sanzana (https://github.com/felipesnz), with Reserved Font Name "Flor de Ruina".
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
