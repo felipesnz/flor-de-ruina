@@ -1,5 +1,11 @@
-* Flor de Ruina * 
+# Flor de Ruina *
 
+* By Felipe Sanzana, 2026 *
+
+---
+
+## English
+Flor de Ruina is born from the life that emerges in the crack, in the fissure. Its variants are a conceptual process that emulate the life cycle of a flower, therefore each glyph germinates, blooms, withers, and finally fissures. Designed as a tool to make visible the word that unsettles, questioning the automatic reading so prevalent in typographic tradition by proposing a system that slows down reading, pausing on form and meaning. It finds beauty in discomfort, designed to interrupt.
 
 ## Español
 Flor de Ruina nace de la vida que surge en la grieta, en la fisura. Sus variantes son un proceso conceptual que emula el ciclo vital de una flor, por tanto cada glifo germina, florece, se marchita y finalmente se fisura. Diseñada como herramienta para hacer visible la palabra que incomoda, cuestionando la lectura automática tan presente en la tradición tipográfica al proponer un sistema que ralentiza la lectura deteniéndose en la forma y el significado. Encuentra la belleza en la incomodidad, diseñada para interrumpir.
@@ -7,16 +13,7 @@ Flor de Ruina nace de la vida que surge en la grieta, en la fisura. Sus variante
 ## Français
 Flor de Ruina naît de la vie qui émerge dans la fissure, dans la crevasse. Ses variantes sont un processus conceptuel qui émule le cycle de vie d'une fleur, ainsi chaque glyphe germe, fleurit, se fane et enfin se fissure. Conçue comme un outil pour rendre visible le mot qui dérange, en questionnant la lecture automatique si prévalente dans la tradition typographique en proposant un système qui ralentit la lecture, s'arrêtant sur la forme et le sens. Elle trouve la beauté dans l'inconfort, conçue pour interrompre.
 
-## English
-Flor de Ruina is born from the life that emerges in the crack, in the fissure. Its variants are a conceptual process that emulate the life cycle of a flower, therefore each glyph germinates, blooms, withers, and finally fissures. Designed as a tool to make visible the word that unsettles, questioning the automatic reading so prevalent in typographic tradition by proposing a system that slows down reading, pausing on form and meaning. It finds beauty in discomfort, designed to interrupt.
-
-
 ---
-Designed by 
-Felipe Sanzana * 
-Stgo, Chile. 2026 * 
-
-
 
 ## Specimen
 
@@ -40,4 +37,4 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 ---
 
 ### Copyright
-Copyright © 2026 Felipe Sanzana (https://github.com/felipesnz), with Reserved Font Name "Flor de Ruina".
+Copyright © 2024 Felipe Sanzana (https://github.com/felipesnz), with Reserved Font Name "Flor de Ruina".
