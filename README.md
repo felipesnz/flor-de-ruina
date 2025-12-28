@@ -26,11 +26,6 @@ __
 
 Flor de Ruina is licensed under the **[SIL Open Font License (OFL) 1.1](OFL.txt)** with additional **[CUTE Conditions of Use](https://genderfluid.space/documents/2024_BBB_CUTE-EN.pdf)**.
 
-This means you can freely use, modify, and redistribute the font for any purpose, provided you:
-- Don't sell the font files alone
-- Don't rename the font
-- Respect the ethical guidelines outlined in the CUTE conditions
-
 [📄 Read full OFL license](OFL.txt) | [📄 Read CUTE conditions](https://genderfluid.space/documents/2024_BBB_CUTE-EN.pdf)
 
 ## Repository Layout
