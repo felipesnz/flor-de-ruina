@@ -18,6 +18,8 @@ __
 
 ---
 
+![1](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2001.jpg)
+
 ## Specimen
 
 [📄 Flor de Ruina Type Specimen](https://github.com/felipesnz/flor-de-ruina/blob/main/documentation/Flor%20de%20Ruina%20(Specimen).pdf)
