@@ -60,3 +60,7 @@ This font repository structure is inspired by [Unified Font Repository v0.3](htt
 Copyright © 2026 Felipe Sanzana (https://github.com/felipesnz), with Reserved Font Name "Flor de Ruina".
 
 
+
+![F](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina.gif)
+
+
