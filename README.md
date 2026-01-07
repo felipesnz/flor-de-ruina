@@ -12,16 +12,27 @@ __
 (FR) Flor de Ruina naît de la vie qui émerge dans la fissure, dans la crevasse. Ses variantes sont un processus conceptuel qui émule le cycle de vie d'une fleur, ainsi chaque glyphe germe, fleurit, se fane et enfin se fissure. Conçue comme un outil pour rendre visible le mot qui dérange, en questionnant la lecture automatique si prévalente dans la tradition typographique en proposant un système qui ralentit la lecture, s'arrêtant sur la forme et le sens. Elle trouve la beauté dans l'inconfort, conçue pour interrompre.
 
 
-![2](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2002.jpg)
+![1](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2002.jpg)
+
+![2](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2007.jpg)
+
+![3](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2008.jpg)
+
+![4](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2006.jpg)
+
+![5](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2010.jpg)
+
+![6](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2011.jpg)
+
+![7](https://raw.githubusercontent.com/felipesnz/flor-de-ruina/master/documentation/images/Flor%20de%20Ruina%2013.jpg)
+
+
 
 
 ✺ Felipe Sanzana, 2026.
 
 
 ---
-
-
-
 ## Specimen
 
 [📄 Flor de Ruina Type Specimen](https://github.com/felipesnz/flor-de-ruina/blob/main/documentation/Flor%20de%20Ruina%20(Specimen).pdf)
